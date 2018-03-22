@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/wijohnst/readWriteTestServer#readme",
   "dependencies": {
-    "npm": "^5.7.1"
+    "csv": "^2.0.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2",
+    "npm": "^5.7.1",
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1"
   }
 }
